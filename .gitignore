@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/app1/node_modules
+/app2/node_modules
 /.pnp
 .pnp.js
 
@@ -10,6 +12,8 @@
 
 # production
 /build
+/app1/build
+/app2/build
 
 # misc
 .DS_Store
