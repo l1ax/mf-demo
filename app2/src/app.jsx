@@ -1,7 +1,8 @@
 import React from 'react';
+import { Button } from 'app1/Button';
 
 const App = () => {
-  return <button>Hello from App 2 Button</button>;
+  return <Button />;
 };
 
 export default App;
